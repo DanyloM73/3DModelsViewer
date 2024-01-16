@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_a_model"
+        android:textSize="50sp"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:layout_marginBottom="40dp" />
+
+    <Button
+        android:id="@+id/cube_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cube"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/astronaut_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/astronaut"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/horse_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/horse"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/neilArm_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/neilarmstrong"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/rocket_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rocketship"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/or"
+        android:textSize="30sp"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:layout_margin="20dp" />
+
+    <Button
+        android:id="@+id/upload_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_your_model"
+        android:textSize="30sp" />
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">3DModelsViewer</string>
+    <string name="cube">Cube</string>
+    <string name="astronaut">Astronaut</string>
+    <string name="horse">Horse</string>
+    <string name="neilarmstrong">NeilArmstrong</string>
+    <string name="rocketship">RocketShip</string>
+    <string name="choose_a_model">Choose a model</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="close">Close</string>
+    <string name="color">Color</string>
+    <string name="light">Light</string>
+    <string name="change_settings">Change settings</string>
+    <string name="open_your_model">Open your model</string>
+    <string name="or">or</string>
+</resources>
